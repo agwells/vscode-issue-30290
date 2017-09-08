@@ -17,7 +17,7 @@ class App extends Component {
         <p className="App-intro">
           <JsNotDefault />
           <JsDefault />
-          <JsNotDefault />
+          <JsxNotDefault />
           <JsxDefault />
         </p>
       </div>

@@ -1,4 +1,4 @@
-import {Component} from "react";
+import React, {Component} from "react";
 
 export class JsxNotDefault extends Component {
     render() {

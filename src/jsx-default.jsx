@@ -1,4 +1,4 @@
-import {Component} from "react";
+import React, {Component} from "react";
 
 export default class JsxDefault extends Component {
     render() {
